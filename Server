@@ -8,18 +8,7 @@
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
 ],
 "alternateItems": [
-
-]
-}
-,
-{
-"intervalSeconds": 0.00,
-"alternateItemChance": 0.00,
-"items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
-],
-"alternateItems": [
-
 ]
 }
 
@@ -261,7 +250,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 240.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal'"
@@ -276,12 +265,23 @@
 "produces":[
 {
 "intervalSeconds": 240.00,
-"alternateItemChance": 0.00,
+"alternateItemChance": 0.01,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood'"
 ],
 "alternateItems": [
-
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower'"
+]
+}
+,
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.01,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste'"
+],
+"alternateItems": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom'"
 ]
 }
 
@@ -300,7 +300,7 @@
 }
 ,
 {
-"intervalSeconds": 0.00,
+"intervalSeconds": 240.00,
 "alternateItemChance": 0.00,
 "items": [
 "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Charcoal.PrimalItemResource_Charcoal'"
