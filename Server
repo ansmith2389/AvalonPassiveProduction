@@ -444,6 +444,20 @@
 ]
 }
 
+]},
+{"dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'", 
+"produces":[
+{
+"intervalSeconds": 240.00,
+"alternateItemChance": 0.00,
+"items": [
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack'"
+],
+"alternateItems": [
+
+]
+}
+
 ]}
 
 
